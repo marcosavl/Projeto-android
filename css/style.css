@@ -65,7 +65,7 @@ header>p {
     max-width: 500px;
     margin: 0 auto;
     font-size: 1.2em;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     text-align: center;
     color: var(--cor6);
     text-shadow: 2px 2px 2px #00000082;
